@@ -1,2 +1,3 @@
-# instarium
-Image Gallery
+# Instarium
+
+Image Gallery project...
